@@ -13,9 +13,9 @@ With python3 you have to install variable dependencies.
 - Numpy `pip install numpy`
 - Requests `pip install requests`
 - base64 / json no insatallation needed
-- opencv `pip install opencv.wheel` -> find your [.wheel File here] (https://www.lfd.uci.edu/~gohlke/pythonlibs/#opencv) 
+- opencv `pip install opencv.wheel` -> find your [.wheel File here](https://www.lfd.uci.edu/~gohlke/pythonlibs/#opencv) 
 
-You also have to sign in on [Kairos] (https://www.kairos.com/) and get an `id` and a `key` there.
+You also have to sign in on [Kairos](https://www.kairos.com/) and get an `id` and a `key` there.
 This properties you have to paste into their placeholder.
 
 #### Try it
