@@ -1,7 +1,7 @@
 # face_detecting_prototype
 
 This is a prototype for face detecting. Including the OpenCV framework and the Kairos API it is able to *read* or *detect* faces.
-This prototype is my first time coding python and my first try in face detecting. If you have suggestions for improvement let me know.
+This prototype is my first time coding python and my first try in face detection. If you have suggestions for improvement let me know.
 
 #### How to run it
 To run my prototype you have to pull it to your computer.
